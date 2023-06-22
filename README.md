@@ -69,7 +69,7 @@ Yᴏᴜ Cᴀɴ Dᴇᴘᴏʟʏ Tʜɪs Rᴇᴘᴏ AɴʏWʜᴇʀᴇ
 <details><summary>Dᴇᴘᴏʟʏ Tᴏ Kᴏʏᴇʙ {ғʀᴇᴇ}</summary>
 <p>
 <br>
-<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/TamilanBotsZ/AwesomeFilterPro&branch=Tamilans-Working-Branch">
+<a href="https://app.koyeb.com/deploy?type=git&repository=github.com/Mahakaal101/AwesomeFilterPro&branch=Tamilans-Working-Branch">
   <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="deploy-to-koyeb">
   </a>
   </p>
